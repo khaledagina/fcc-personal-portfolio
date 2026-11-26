@@ -6,6 +6,10 @@ This is a **freeCodeCamp Responsive Web Design certification project**, redesign
 
 **Live demo:** https://khaledagina.github.io/fcc-personal-portfolio/
 
+## Preview
+
+![Khaled Agina portfolio, desktop view](https://github.com/user-attachments/assets/5b53be45-6ff5-4951-9608-71d111e9d3d2)
+
 ## What changed in the redesign
 - Real name, role, links and projects (the original used sample placeholder text)
 - Project tiles linking to live demos and source code
